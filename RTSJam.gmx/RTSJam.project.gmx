@@ -6,6 +6,10 @@
   <NewExtensions/>
   <sounds name="sound"/>
   <sprites name="sprites">
+<<<<<<< HEAD
+=======
+    <sprite>sprites\sprite0</sprite>
+>>>>>>> origin/master
     <sprite>sprites\sprite1</sprite>
   </sprites>
   <backgrounds name="background"/>
