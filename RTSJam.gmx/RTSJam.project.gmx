@@ -7,9 +7,13 @@
   <sounds name="sound"/>
   <sprites name="sprites">
     <sprite>sprites\sprite0</sprite>
+    <sprite>sprites\sprite1</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
+  <objects name="objects">
+    <object>objects\object0_0</object>
+  </objects>
   <help>
     <rtf>help.rtf</rtf>
   </help>
